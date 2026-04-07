@@ -1,0 +1,9 @@
+enemyID,name,health,attackPower,scoreReward,description
+1,"Gefreiter Braun",30,6,50,"Suspicious NCO on the Warsaw train"
+2,"Feldgendarm Koch",35,7,60,"Military police officer at the Brest crossing"
+3,"Checkpoint Guards",45,8,70,"Two soldiers on the Minsk road checkpoint"
+4,"Major Kraus",50,10,90,"Suspicious Wehrmacht major in the officers mess"
+5,"Guard Heinemann",40,8,70,"Depot night patrol soldier"
+6,"Perimeter Guards",55,9,100,"Outer perimeter soldiers at the EISENFAUST site"
+7,"SS-Hauptsturmfuhrer Voss",70,14,150,"Elite SS guard at the command car"
+8,"Wehrmacht Patrol",65,11,120,"Four-man patrol at the magazine car"

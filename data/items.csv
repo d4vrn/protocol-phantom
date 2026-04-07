@@ -1,0 +1,13 @@
+itemID,name,type,effectType,effectValue,description
+1,"Luger P08 Pistol",weapon,attackBoost,3,"Standard Soviet-acquired German sidearm. Increases attack power."
+2,"Enigma Decoder Ring",key,puzzleHint,0,"KGB-issue cipher tool. Reveals hints in puzzle scenarios."
+3,"Officer's Greatcoat",clothing,healthBoost,15,"Hauptmann-rank Wehrmacht greatcoat. Restores health when acquired."
+4,"Schnapps Canteen",consumable,healthBoost,10,"Flask of German field schnapps. Restores health when acquired."
+5,"Combat Knife",weapon,attackBoost,4,"Standard Wehrmacht-issue blade. Increases attack power."
+6,"Field Medical Kit",consumable,healthBoost,20,"Bandages, morphine, antiseptic. Restores health when acquired."
+7,"Walther P38",weapon,attackBoost,5,"Reliable German service pistol. Increases attack power."
+8,"Streckenausweis",key,puzzleHint,0,"Wehrmacht rail access permit. Reveals hints in logistics-related puzzles."
+9,"Sheepskin Coat",clothing,healthBoost,15,"Heavy partisan-camp coat. Restores health when acquired."
+10,"Explosive Charges",key,none,0,"Military-grade demolition charges. Required to destroy EISENFAUST."
+11,"Detonator Assembly",key,none,0,"Required to arm the explosive charges on EISENFAUST."
+12,"Site Identity Disc",key,puzzleHint,0,"Full site clearance disc. Reveals hints in EISENFAUST site puzzles."

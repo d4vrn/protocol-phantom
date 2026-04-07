@@ -1,0 +1,9 @@
+puzzleID,question,answer,hint,scoreReward,rewardItemID
+1,"What is the 7th Infantry regimental number?","473","Potsdam 7th Infantry — the number is in your cover papers.",80,0
+2,"The pencilled letters on the photograph frame are scrambled. Unscramble them to identify the general.","Hube","Four letters. A German surname. Rearrange them.",80,0
+3,"The word is scrambled in Wegner's notes: ACGLDNSROHN. Unscramble it.","Donnerschlag","Count the letters — 12. It is a German word. Think thunder.",100,0
+4,"What sector does Grid 7-November-4 correspond to on the Wehrmacht Eastern Front map?","Smolensk-East","Wehrmacht grid overlays use compass sectors. November is north. The sector east of Smolensk.",100,0
+5,"What is the four-digit combination for the wall safe?","1918","The photograph on the desk. The date stamp in the corner. Officers of his generation always use the same number.",90,0
+6,"Werner's note reads: Code = staff number x inspection cycles. His staff number is 78. The cycle counter reads 4. What is the code?","312","Multiply the two numbers Werner left in plain sight. 78 and 4.",120,0
+7,"I am the distance between a weapon and its target city. I am written on the wall beside the man who built me. I am the last number a city ever sees. What am I?","380","The chalk diagram on the wall. The arc ends at a number. That number ends at Stalinets.",120,0
+8,"What is the four-digit detonator arming code?","1943","The barrel plate directly in front of you. E-1943-7. The middle four digits are the code.",200,0

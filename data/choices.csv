@@ -1,0 +1,48 @@
+choiceID,parentSceneID,choiceText,nextSceneID,resultType,resultID
+1,1,"Take the Luger P08 pistol",2,item,1
+2,1,"Take the Enigma decoder ring",2,item,2
+3,2,"Wait — let him approach you",3,enemy,1
+4,2,"Make the first move — strike up conversation",4,puzzle,1
+5,3,"[Combat resolves automatically]",5,scene,0
+6,4,"[Puzzle resolves automatically]",5,scene,0
+7,5,"Take the officer's greatcoat",6,item,3
+8,5,"Take the schnapps canteen",6,item,4
+9,6,"Use officer rank to take the fast-track lane",7,puzzle,2
+10,6,"Join the enlisted queue and blend in",8,enemy,2
+11,7,"[Puzzle resolves automatically]",9,scene,0
+12,8,"[Combat resolves automatically]",9,scene,0
+13,9,"Take the combat knife",10,item,5
+14,9,"Take the field medical kit",10,item,6
+15,10,"Press the lieutenant quietly for more information",11,puzzle,3
+16,10,"Hold back — gather intelligence another way",12,scene,0
+17,11,"[Puzzle resolves automatically]",13,scene,0
+18,12,"Steal a Wehrmacht vehicle and follow the rail tracks east",14,enemy,3
+19,12,"Attach yourself to a supply convoy heading east",13,item,0
+20,13,"Take the Walther P38",15,item,7
+21,13,"Take the Streckenausweis",15,item,8
+22,14,"[Combat resolves automatically]",15,scene,0
+23,15,"[Puzzle resolves automatically]",17,scene,0
+24,16,"[Combat resolves automatically]",17,scene,0
+25,17,"Jump from the wagon and approach through the pine forest",18,item,0
+26,17,"Stay hidden and ride to the next stop inside the depot",19,enemy,5
+27,18,"Take the sheepskin coat",20,item,9
+28,18,"Take the explosive charges",20,item,10
+29,19,"[Combat resolves automatically]",20,scene,0
+30,20,"[Puzzle resolves automatically]",21,scene,0
+31,21,"Push forward immediately — destroy EISENFAUST",22,scene,0
+32,21,"Attempt to radio Moscow — confront Volkov",22,scene,0
+33,22,"[Combat resolves automatically]",23,scene,0
+34,23,"[Puzzle resolves automatically]",24,scene,0
+35,24,"Take the detonator assembly",25,item,11
+36,24,"Take the site identity disc",25,item,12
+37,25,"Eliminate the guard silently before he raises the alarm",26,enemy,7
+38,25,"Walk directly to the scientist — use him as your cover",27,puzzle,7
+39,26,"[Combat resolves automatically]",28,scene,0
+40,27,"[Puzzle resolves automatically]",28,scene,0
+41,28,"Accept — let Haas guide you to the charges placement points",29,enemy,8
+42,28,"Send Haas away — set the charges alone",30,puzzle,8
+43,29,"[Combat resolves automatically]",30,scene,0
+44,30,"[Puzzle resolves automatically — WIN path]",31,scene,0
+45,31,"Take the maintenance tunnel",32,scene,0
+46,31,"Take the rail line west",32,scene,0
+47,32,"[Branches based on escape route chosen in scene 31]",33,ending,0

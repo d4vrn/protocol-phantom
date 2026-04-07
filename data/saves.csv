@@ -1,0 +1,6 @@
+slotID,playerName,codename,sceneID,health,lives,attackPower,score,pendingEndingSceneID,inventory,lastPlayed,active
+1,Jonathan,4740,2,100,3,13,0,33,1,2026-04-06T20:43:51,0
+2,Jonathan,4740,2,100,3,13,0,33,1,2026-04-06T20:43:57,0
+3,Angelina,4134,2,100,3,13,0,33,1,2026-04-06T20:45:05,0
+4,Jonathan,4740,10,88,3,17,60,33,1;4;5,2026-04-06T22:24:47,0
+5,Jonathan,4740,17,91,1,22,310,33,1;4;5;7,2026-04-06T22:30:46,1
